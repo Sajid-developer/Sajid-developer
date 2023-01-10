@@ -1,5 +1,5 @@
 ![MasterHead](https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)
-<h1 align="center">Hello 👋, I'm Er. Sajid Alam</h1>
+<h1 align="center">Hello 👋, I'm Sajid</h1>
 <h3 align="center">A Full Stack Web Developer with in-depth knowledge of development from India</h3>
 <img align="right" width="430" height="260" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
