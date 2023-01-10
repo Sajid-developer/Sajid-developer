@@ -1,7 +1,7 @@
 ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-<h1 align="center">Hi 👋, I'm Er. Sajid Alam</h1>
+<h1 align="center">Hello 👋, I'm Er. Sajid Alam</h1>
 <h3 align="center">A Full Stack Web Developer with in-depth knowledge of Frontend & Backend development from India</h3>
-<img align="right" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="500" height="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid-developer&label=Profile%20views&color=0e75b6&style=flat" alt="sajid-developer" /> </p>
 
@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **CodeIgniter**
 
 - 📫 How to reach me **msasajid01.pro@gmail.com**
+
+- 💬 Ask me about **Javascript, JQuery, PHP, MySQL, Rest API**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
