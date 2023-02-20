@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sajiddeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/sajiddeveloper?logo=twitter&style=for-the-badge" alt="sajiddeveloper" /></a> </p>
 
-- 🌱 I’m currently learning **CodeIgniter**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **msasajid01.pro@gmail.com**
 
-- 💬 Ask me about **Javascript, JQuery, PHP, MySQL, Rest API**
+- 💬 Ask me about **Javascript, JQuery, PHP, MySQL, Rest API **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
