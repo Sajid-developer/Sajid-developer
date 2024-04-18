@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **msasajid01.pro@gmail.com**
 
-- 💬 Ask me about **HTML, CSS, Javascript, JQuery, PHP, MySQL, Rest API **
+- 💬 Ask me about ** HTML, CSS, Tailwind, Javascript, JQuery, PHP, MySQL, Rest API **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
