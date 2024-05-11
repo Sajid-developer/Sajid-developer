@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 📫 Contact me On **msasajid01.pro@gmail.com**
+- 📫 Reach me @ **msasajid01.pro@gmail.com**
 
 - 💬 Ask me about ** HTML, CSS, Tailwind, Javascript, React, Angular, JQuery, PHP, MySQL, Rest API **
 
